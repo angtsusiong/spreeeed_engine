@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails'
   s.add_dependency 'sass-rails'
-  s.add_dependency 'jquery-rails'
+  s.add_dependency 'jquery-rails', '4.3.1'
   s.add_dependency 'devise'
   s.add_dependency 'simple_form'
   s.add_dependency 'cocoon'
@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'carrierwave'
   s.add_dependency 'mini_magick'
   s.add_dependency 'will_paginate-bootstrap'
-  s.add_dependency 'wysiwyg-rails'
+  s.add_dependency 'wysiwyg-rails', '2.7.0'
   s.add_dependency 'rails_autolink'
 
   # View components for Ruby and Rails.
@@ -55,7 +55,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'rails-assets-jPushMenu'
   s.add_dependency 'rails-assets-nanoscroller'
   s.add_dependency 'rails-assets-select2'
-  s.add_dependency 'rails-assets-select2-bootstrap3-css'
+  s.add_dependency 'rails-assets-select2-bootstrap3-css', '1.4.6'
   s.add_dependency 'rails-assets-jquery-option-tree'
   s.add_dependency 'rails-assets-bootstrap3-typeahead'
   s.add_dependency 'rails-assets-input-autogrow'

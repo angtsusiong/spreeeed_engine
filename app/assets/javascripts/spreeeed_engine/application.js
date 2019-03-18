@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
+//= require rails-ujs
 //= require font-awesome/svg-with-js/js/fontawesome-all
 //= require cocoon
 //= require bootstrap-sprockets
